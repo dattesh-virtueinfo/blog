@@ -1,4 +1,4 @@
-ROR
+blog
 ===
 
-ROR applications
+Rails blog application
